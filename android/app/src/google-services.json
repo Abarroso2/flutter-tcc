@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "994787101554",
+    "project_id": "flutterfire-todoey",
+    "storage_bucket": "flutterfire-todoey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994787101554:android:03dd6b5e2b379ec73b6beb",
+        "android_client_info": {
+          "package_name": "com.example.firebasetodoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994787101554-lc435kbvvk9d72s83p9koi9rjgdg1241.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc9PJHmuxcvChmBivS2ZJurBFMceAwyJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994787101554-lc435kbvvk9d72s83p9koi9rjgdg1241.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994787101554:android:d93d99498f60dd4d3b6beb",
+        "android_client_info": {
+          "package_name": "com.example.todo_flutterfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994787101554-lc435kbvvk9d72s83p9koi9rjgdg1241.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc9PJHmuxcvChmBivS2ZJurBFMceAwyJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994787101554-lc435kbvvk9d72s83p9koi9rjgdg1241.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994787101554:android:098f57c5a442e2233b6beb",
+        "android_client_info": {
+          "package_name": "flutterfire_todoey.appspot.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994787101554-lc435kbvvk9d72s83p9koi9rjgdg1241.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc9PJHmuxcvChmBivS2ZJurBFMceAwyJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994787101554-lc435kbvvk9d72s83p9koi9rjgdg1241.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
